@@ -8,4 +8,4 @@ def solution(x: np.array, y: np.array) -> bool:
     # Измените код этой функции
     # Это будет вашим решением
     # Не меняйте название функции и её аргументы
-    return ... # Ваш ответ, True или False
+    return True # Ваш ответ, True или False
